@@ -4,7 +4,7 @@ Weekend project - clone of flappy bird
 
 <br>
 <br>
-<img src="/ReadmeFiles/logo.jpeg" align="left"
+<img src="/ReadmeFiles/logo" align="left"
 width="200" hspace="10" vspace="10">
 
 # Game rules
@@ -17,8 +17,8 @@ It is a clone of flappy bird game, recreated for fun purpose only.
 # Screenshots:
 <div id="screenshot">
   <img src="/ReadmeFiles/screenshot1.jpeg" width="250">
-  <img src="/ReadmeFiles/screenshot2.jpeg" width="250">
   <img src="/ReadmeFiles/screenshot3.jpeg" width="250">
+  <img src="/ReadmeFiles/screenshot2.jpeg" width="250">
 </div>
 
 ## Disclamer
