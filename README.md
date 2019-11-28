@@ -4,8 +4,6 @@ Weekend project - clone of flappy bird
 
 <br>
 <br>
-<img src="/ReadmeFiles/logo" align="left"
-width="200" hspace="10" vspace="10">
 
 # Game rules
 Tap on the screen to flap the bird between the poles.
