@@ -1,7 +1,9 @@
 # FlappyBird
 Weekend project - clone of flappy bird
-Library used - libGDX.
+<br>Library used - libGDX.
 
+<br>
+<br>
 <img src="/ReadmeFiles/logo.png" align="left"
 width="200" hspace="10" vspace="10">
 
