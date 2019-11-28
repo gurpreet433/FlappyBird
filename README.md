@@ -2,9 +2,6 @@
 Weekend project - clone of flappy bird
 <br>Library used - libGDX.
 
-<br>
-<br>
-
 # Game rules
 Tap on the screen to flap the bird between the poles.
 Score increses when you pass the poles.
