@@ -4,7 +4,7 @@ Weekend project - clone of flappy bird
 
 <br>
 <br>
-<img src="/ReadmeFiles/logo.png" align="left"
+<img src="/ReadmeFiles/logo.jpeg" align="left"
 width="200" hspace="10" vspace="10">
 
 # Game rules
@@ -12,13 +12,13 @@ Tap on the screen to flap the bird between the poles.
 Score increses when you pass the poles.
 Game over when when you hit the poles/top/bottom of screen.
 
-It is a clone of flappy bird game, recreated for fun purpose only
+It is a clone of flappy bird game, recreated for fun purpose only.
 
 # Screenshots:
 <div id="screenshot">
-  <img src="/ReadmeFiles/screenshot1.png" width="250">
-  <img src="/ReadmeFiles/screenshot2.png" width="250">
-  <img src="/ReadmeFiles/screenshot3.png" width="250">
+  <img src="/ReadmeFiles/screenshot1.jpeg" width="250">
+  <img src="/ReadmeFiles/screenshot2.jpeg" width="250">
+  <img src="/ReadmeFiles/screenshot3.jpeg" width="250">
 </div>
 
 ## Disclamer
